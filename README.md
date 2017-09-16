@@ -1,0 +1,2 @@
+# wsparser
+Whoscored.com parser
