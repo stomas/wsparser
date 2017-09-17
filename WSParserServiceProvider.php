@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Stomas\WSParser;
 
 use Illuminate\Support\ServiceProvider;
 
